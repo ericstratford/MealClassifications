@@ -12,7 +12,7 @@ by Eric Stratford (estratford@uscd.edu)
    - [Model Design & Performance](#model-design--performance)
 4. [Final Model](#final-model)
    - [Feature Engineering](#feature-engineering-1)
-   - [Refining the Model](#refining-the-model)
+   - [Classification Model](#classification-model)
    - [Hyperparameter Tuning](#hyperparameter-tuning)
    - [Performance Evaluation](#performance-evaluation)
 5. [Fairness Analysis](#fairness-analysis)
@@ -137,7 +137,7 @@ Feature Summary:
 	- Ingredients
 	- Tags
 
-### Refining the Model
+### Classification Model
 
 While the decision tree classification worked well, I wanted to use a deeper, more advanced classifier for this model with developed features.
 
