@@ -14,8 +14,7 @@ by Eric Stratford (estratford@uscd.edu)
 
 ## Pre-introduction
 
-*[TO DO]*
-The exploratory data analysis precursor to this prediction project can be found [here]
+This project builds upon an exploratory data analysis (EDA) that examined the structure and patterns within recipes. Through this EDA, we gained insights into how various attributes such as nutritional values, ingredients, and preparation times can be used to classify recipes into specific meal categories. The exploratory data analysis precursor to this prediction project can be found [here]
 
 ## Introduction (Framing the Problem)
 
