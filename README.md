@@ -5,10 +5,18 @@ by Eric Stratford (estratford@uscd.edu)
 ---
 
 ## Table of Contents
-{: .no_tox .text-delta }
-
-1. TOC
-{:toc}
+1. [Pre-introduction](#pre-introduction)
+2. [Introduction (Framing the Problem)](#introduction-framing-the-problem)
+3. [Baseline Model](#baseline-model)
+   - [Feature Engineering](#feature-engineering)
+   - [Model Design & Performance](#model-design--performance)
+4. [Final Model](#final-model)
+   - [Feature Engineering](#feature-engineering-1)
+   - [Refining the Model](#refining-the-model)
+   - [Hyperparameter Tuning](#hyperparameter-tuning)
+   - [Performance Evaluation](#performance-evaluation)
+5. [Fairness Analysis](#fairness-analysis)
+6. [Conclusion](#conclusion)
 
 ---
 
